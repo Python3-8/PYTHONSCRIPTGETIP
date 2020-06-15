@@ -1,5 +1,9 @@
 from socket import socket, AF_INET, SOCK_DGRAM
 from requests import get
+__name__ = 'pythonscriptgetip'
+__author__ = 'Pranav Balaji Pooruli'
+__email__ = 'pranav.pooruli@gmail.com'
+__version__ = '0.0.1'
 
 
 def private():
