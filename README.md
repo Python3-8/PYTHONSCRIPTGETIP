@@ -10,7 +10,7 @@ To install it with pip, run:
 
 If an error occurs:
 
-* Go to github.com/Python3-8/IP-WHL-and-TAR-GZ
+* Go to https://github.com/Python3-8/IP-WHL-and-TAR-GZ
 * Click on "Clone or download"
 * Click on "Download ZIP"
 * Extract the ZIP file
